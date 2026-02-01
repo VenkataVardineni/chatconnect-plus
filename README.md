@@ -34,7 +34,7 @@ See [docs/architecture.md](docs/architecture.md) for detailed architecture docum
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/chatconnect-plus.git
+git clone https://github.com/VenkataVardineni/chatconnect-plus.git
 cd chatconnect-plus
 ```
 
