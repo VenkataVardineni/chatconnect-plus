@@ -378,6 +378,3 @@ chatconnect-plus/
 - **Kafka**: 9092
 - **Zookeeper**: 2181
 
-## License
-
-MIT
